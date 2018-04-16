@@ -7,6 +7,14 @@ What is BANANA MVC? That is a Simple PHP files that used MVC Design Patterns. Th
 * This is simple Framework of PHP that used MVC Design Patterns.
 * Version : 0.3
 
+### plus : DOCKER ###
+
+* Now this apps run above docker. so make sure to install docker in server.
+* run docker-compose up 
+	- this docker setup make 4 container (php, nginx, mysql, phpmyadmin)
+	- see docker-compose.yml about configuration
+* if dont use docker, just copy files/folders inside www/ folder.
+
 ### How do I get set up? ###
 
 * Summary of set up
