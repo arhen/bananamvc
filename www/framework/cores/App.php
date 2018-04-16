@@ -16,8 +16,7 @@ class App
         $this->_controllerPath = rtrim($this->_controllerPath,'/') . '/';
 
         // Add .php strings
-        $this->_defaultController = $this->_defaultController . '.php';
-
+		$this->_defaultController = $this->_defaultController . '.php';
         // call Router
 		new Router($this->_modelPath,$this->_viewPath,$this->_controllerPath, $this->_defaultController);
 	}

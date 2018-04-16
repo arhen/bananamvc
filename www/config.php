@@ -1,6 +1,6 @@
 <?php 
 //Always providing a TRAILING SLASH!
-DEFINE('URL', 'http://localhost/mvc/');
+DEFINE('URL', 'http://localhost:8080/');
 DEFINE('APPPATH', 'application/');
 
 // This is your autoloader File. If you use another auloader, change the PATH bases on it!
