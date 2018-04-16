@@ -1,6 +1,6 @@
-# MVC FRAMEWORK #
+# BANANA MVC #
 
-What is MVC Framework? That is a Simple PHP files that used MVC Design Patterns. This Framework is very good for Learning basic of Populars PHP Framework like CI, Laravel, etc
+What is BANANA MVC? That is a Simple PHP files that used MVC Design Patterns. This Framework is very good for Learning basic of Populars PHP Framework like CI, Laravel, etc
 
 ### What is this repository for? ###
 
